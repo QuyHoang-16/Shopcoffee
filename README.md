@@ -28,8 +28,7 @@ UniCafe is a full-featured e-commerce web application for a coffee shop, built w
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/phuchautea/UniCafe.git
-cd UniCafe
+git clone https://github.com/QuyHoang-16/Shopcoffee.git
 ```
 
 ### Step 2: Open the solution
